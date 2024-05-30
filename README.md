@@ -34,3 +34,7 @@ With the trend of AI and my love for Python, I've gained significant expertise a
 
 I'm currently venturing into studying and learning about Data Science. You can check out and learn from my personal project:
 - [Credit Card Clients Data Science Project](https://github.com/ramondepieri/datascienceprojects/blob/main/credit_card_clients/credit_card_clients.ipynb)
+
+## 🎨 Fun Facts
+
+- I like to risk some chess moves and occasionally commit some "capybaras" (a playful term I use for blunders), like hanging my Queen sometimes 😆. Challenge me on [Chess.com](https://www.chess.com/member/ramondepieri) and let's have some fun!
