@@ -10,7 +10,7 @@ I'm currently working at [Sofist](https://sofist.com.br) as a Senior QA Performa
 
 I have 14 years of experience in information systems, primarily as a Quality Assurance (QA) professional. However, my expertise is not limited to QA; I have also worked as a Java and Python developer, bringing a well-rounded perspective to my projects.
 
-I am also a teacher! I am very proud to have the most sold and highest rated JMeter performance course in Portuguese BR on Udemy, with more than five thousand students. Thank you to all my students for your support! Check out the course here: 
+I am also a teacher! I am very proud to have the most sold and highest rated JMeter performance course in Portuguese BR on Udemy, with more than five thousand students. Thank you to all my students and my collegue my colleague [Leandro Ugioni](https://github.com/ugioni) for your support! Check out the course here: 
 [![JMeter Course](https://img.shields.io/badge/Udemy-JMeter_Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/)
 
 - **Years of Experience:** 14
