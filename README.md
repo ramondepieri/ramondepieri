@@ -22,7 +22,7 @@ I am also a teacher! I am very proud to have the most sold and highest rated JMe
 - **Programming Languages:** Java, Python
 - **QA Tools:** JMeter, Selenium
 - **Development Frameworks:** Spring, Django, Flask
-- **AWS Tools:** S3, SQS, Lambda, Step Functions, EC2, DLT[Distributed Load Testing](https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws/)
+- **AWS Tools:** S3, SQS, Lambda, Step Functions, EC2, [DLT - Distributed Load Testing](https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws/)
 - **Other Tools:** Git, Docker, Jenkins, Grafana, Dynatrace
 
 ## 🌟 Projects
