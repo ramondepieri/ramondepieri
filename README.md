@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**ramondepieri/ramondepieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my GitHub profile. Here, you'll find my public projects and professional work.
 
-Here are some ideas to get you started:
+## 🛠️ Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working at [Sofist](https://sofist.com.br) as a Senior QA Performance Engineer. My role involves ensuring the performance and reliability of software systems, with a focus on delivering high-quality user experiences.
+
+## 📚 Background
+
+I have 14 years of experience in information systems, primarily as a Quality Assurance (QA) professional. However, my expertise is not limited to QA; I have also worked as a Java and Python developer, bringing a well-rounded perspective to my projects.
+
+- **Years of Experience:** 14
+- **Primary Role:** QA Performance Engineer
+- **Additional Roles:** Java/Python Developer
+
+## 🚀 Skills and Technologies
+
+- **Programming Languages:** Java, Python
+- **QA Tools:** JMeter, Selenium, LoadRunner
+- **Development Frameworks:** Spring, Django
+- **Other Tools:** Git, Docker, Jenkins
