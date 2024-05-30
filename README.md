@@ -17,6 +17,6 @@ I have 14 years of experience in information systems, primarily as a Quality Ass
 ## 🚀 Skills and Technologies
 
 - **Programming Languages:** Java, Python
-- **QA Tools:** JMeter, Selenium, LoadRunner
-- **Development Frameworks:** Spring, Django
-- **Other Tools:** Git, Docker, Jenkins
+- **QA Tools:** JMeter, Selenium
+- **Development Frameworks:** Spring, Django, Flask
+- **Other Tools:** Git, Docker, Jenkins, Grafana, Dynatrace
