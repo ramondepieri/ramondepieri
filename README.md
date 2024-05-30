@@ -26,10 +26,10 @@ I am also a teacher! I am very proud to have the most sold and highest rated JMe
 
 ## 🌟 Projects
 
-### [uiAutomationPureJavaSelenium](https://github.com/ramondepieri/uiAutomationPureJavaSelenium)
+### [UI - Automation Pure Java Selenium](https://github.com/ramondepieri/uiAutomationPureJavaSelenium)
 This project is a pure Java Selenium framework for UI automation. It's a great starting point for those looking to begin a career in QA automation. I have fond memories from this time, as it was a significant learning experience and a milestone in my career.
 
-### [apiAutomationBookingRestAssuredJava](https://github.com/ramondepieri/apiAutomationBookingRestAssuredJava)
+### [API - Automation Booking - RestAssured - Java](https://github.com/ramondepieri/apiAutomationBookingRestAssuredJava)
 This project tests APIs using Rest Assured and Java. Java is incredible for this type of work; it performs efficiently and works like a charm. This project is another excellent resource for those interested in API automation testing.
 
 ### Python and Data Science
