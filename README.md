@@ -20,3 +20,11 @@ I have 14 years of experience in information systems, primarily as a Quality Ass
 - **QA Tools:** JMeter, Selenium
 - **Development Frameworks:** Spring, Django, Flask
 - **Other Tools:** Git, Docker, Jenkins, Grafana, Dynatrace
+
+## 🌟 Projects
+
+### [uiAutomationPureJavaSelenium](https://github.com/ramondepieri/uiAutomationPureJavaSelenium)
+This project is a pure Java Selenium framework for UI automation. It's a great starting point for those looking to begin a career in QA automation. I have fond memories from this time, as it was a significant learning experience and a milestone in my career.
+
+### [apiAutomationBookingRestAssuredJava](https://github.com/ramondepieri/apiAutomationBookingRestAssuredJava)
+This project tests APIs using Rest Assured and Java. Java is incredible for this type of work; it performs efficiently and works like a charm. This project is another excellent resource for those interested in API automation testing.
