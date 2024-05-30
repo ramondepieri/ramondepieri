@@ -28,3 +28,9 @@ This project is a pure Java Selenium framework for UI automation. It's a great s
 
 ### [apiAutomationBookingRestAssuredJava](https://github.com/ramondepieri/apiAutomationBookingRestAssuredJava)
 This project tests APIs using Rest Assured and Java. Java is incredible for this type of work; it performs efficiently and works like a charm. This project is another excellent resource for those interested in API automation testing.
+
+### Python and Data Science
+With the trend of AI and my love for Python, I've gained significant expertise and experience with it, especially with the [Django framework](https://www.djangoproject.com/). My post-graduation final project involved creating a model to predict crypto market movements (no, I did not become rich 😄). 
+
+I'm currently venturing into studying and learning about Data Science. You can check out and learn from my personal project:
+- [Credit Card Clients Data Science Project](https://github.com/ramondepieri/datascienceprojects/blob/main/credit_card_clients/credit_card_clients.ipynb)
