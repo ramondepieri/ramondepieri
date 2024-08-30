@@ -8,7 +8,7 @@ I am a Software Developer with 14 years of experience, specializing in Python de
 
 ## 📚 Background
 
-With a strong foundation in information systems, I have evolved from a Quality Assurance professional to a seasoned Python developer. My journey has equipped me with a comprehensive skill set that bridges both development and testing, enabling me to deliver robust, reliable software solutions.
+With a solid foundation in information systems, I have built extensive expertise in Python development, focusing on creating robust and scalable software solutions. My diverse experience in both development and performance optimization allows me to deliver high-quality, reliable systems.
 
 I am also passionate about teaching! I am proud to have created the most sold and highest-rated JMeter performance course in Brazilian Portuguese on Udemy, with more than five thousand students. A big thank you to all my students and my colleague [Leandro Ugioni](https://github.com/ugioni) for your support! You can check out the course here: 
 [![JMeter Course](https://img.shields.io/badge/Udemy-JMeter_Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/)
